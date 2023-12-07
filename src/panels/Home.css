@@ -1,0 +1,27 @@
+.circular-buttons {
+    position: relative;
+    width:96%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(0deg, #F9F9FF 0%, rgba(137, 136, 251, 0.583376) 52.52%, #F3F3F4 103.34%);
+}
+.center-text {
+    font-size: 20px;
+    color: white;
+}
+.circular-buttons img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin: 10px;
+}
+.Smile:hover {
+    width: 85px;
+    height: 85px;
+    border: 5px solid rgba(255, 255, 255, 1);
+    border-radius: 50%;
+}
+
+

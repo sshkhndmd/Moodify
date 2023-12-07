@@ -1,0 +1,28 @@
+.pageOne{
+    position: relative;
+    width:96%;
+    height: 100vh;
+    display: flex;
+    justify-content: top;
+    align-items: center;
+    flex-direction: column;
+    background: linear-gradient(0deg, #F9F9FF 0%, rgba(137, 136, 251, 0.583376) 52.52%, #F3F3F4 103.34%);
+}
+  .image-container {
+    margin-top: 120px; 
+  }
+.textPage{
+    font-size: 20px;
+    color: rgba(38, 136, 235, 1);
+}
+.inputPage{
+  min-height: 17px;
+  border: 1px solid #ccc;
+  max-height: 150px;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.textareaPage{
+    border-radius: 10px;
+    height: 150px;
+}

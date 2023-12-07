@@ -1,0 +1,27 @@
+.pageCalendar{
+    position: relative;
+    width:96%;
+    height: 100vh;
+    display: flex;
+    justify-content: top;
+    align-items: center;
+    flex-direction: column;
+    background: linear-gradient(0deg, #F9F9FF 0%, rgba(137, 136, 251, 0.583376) 52.52%, #F3F3F4 103.34%);
+}
+.calendarr{
+  margin-top: 100px;
+}
+.note{
+  margin-top: 15px;
+  width: 270px;
+  text-align: center;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+  font-size: 14px;
+  color: black;
+
+}
+.button{
+  margin-top: 20px;
+}

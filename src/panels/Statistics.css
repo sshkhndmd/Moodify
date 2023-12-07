@@ -1,0 +1,17 @@
+.stat{
+    position: relative;
+    width:96%;
+    height: 120vh;
+    display: flex;
+    justify-content: top;
+    align-items: center;
+    flex-direction: column;
+    background: linear-gradient(0deg, #F9F9FF 0%, rgba(137, 136, 251, 0.583376) 52.52%, #F3F3F4 103.34%);
+}
+.text{
+    font-size: 20px;
+    color: rgba(38, 136, 235, 1);
+}
+.img{
+    margin-top: 5px;
+}
